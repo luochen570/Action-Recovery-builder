@@ -22,11 +22,11 @@ on:
       DEVICE_COMMON_URL:
         description: 'DEVICE_COMMON_URL'
         required: true
-        default: 'https://github.com/SGCMarkus/android_device_lge_sm8150-common-twrp'
+        default: 'https://github.com/luochen570/android_device_readboy_msm8996.git'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
-        default: 'android-10'
+        default: 'android-7.1'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
